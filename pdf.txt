@@ -1,0 +1,1 @@
+        dfs = tabula.read_pdf(file, lattice=True, pages=str(page))
